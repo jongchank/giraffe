@@ -4,6 +4,8 @@ Welcome to the giraffe repository!
 
 ![Cute Baby Giraffe](https://i.redd.it/mvv5bpf4uh591.jpg)
 
+*Image source: [Reddit](https://i.redd.it/mvv5bpf4uh591.jpg)*
+
 ## About
 
 This repository is dedicated to these magnificent, long-necked creatures!
