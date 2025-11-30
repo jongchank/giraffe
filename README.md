@@ -2,7 +2,7 @@
 
 Welcome to the giraffe repository!
 
-![Cute Baby Giraffe](https://images.unsplash.com/photo-1534567110243-e18d99934912?w=800&q=80)
+![Cute Baby Giraffe](https://i.redd.it/mvv5bpf4uh591.jpg)
 
 ## About
 
