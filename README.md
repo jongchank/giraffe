@@ -2,7 +2,7 @@
 
 Welcome to the giraffe repository!
 
-![Cute Giraffe](https://images.unsplash.com/photo-1564760055775-d63b17a55c44?w=800&q=80)
+![Cute Giraffe](https://images.unsplash.com/photo-1547721064-da6cfb341d50?w=800&q=80)
 
 ## About
 
